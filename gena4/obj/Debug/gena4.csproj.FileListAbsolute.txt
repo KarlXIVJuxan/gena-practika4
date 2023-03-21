@@ -1,0 +1,16 @@
+D:\практика\гена\gena4\gena4\obj\Debug\gena4.csproj.AssemblyReference.cache
+D:\практика\гена\gena4\gena4\obj\Debug\gena4.csproj.SuggestedBindingRedirects.cache
+D:\практика\гена\gena4\gena4\obj\Debug\MainWindow.g.cs
+D:\практика\гена\gena4\gena4\obj\Debug\App.g.cs
+D:\практика\гена\gena4\gena4\obj\Debug\gena4_MarkupCompile.cache
+D:\практика\гена\gena4\gena4\obj\Debug\gena4_MarkupCompile.lref
+D:\практика\гена\gena4\gena4\bin\Debug\gena4.exe.config
+D:\практика\гена\gena4\gena4\bin\Debug\gena4.exe
+D:\практика\гена\gena4\gena4\bin\Debug\gena4.pdb
+D:\практика\гена\gena4\gena4\obj\Debug\MainWindow.baml
+D:\практика\гена\gena4\gena4\obj\Debug\gena4.g.resources
+D:\практика\гена\gena4\gena4\obj\Debug\gena4.Properties.Resources.resources
+D:\практика\гена\gena4\gena4\obj\Debug\gena4.csproj.GenerateResource.cache
+D:\практика\гена\gena4\gena4\obj\Debug\gena4.csproj.CoreCompileInputs.cache
+D:\практика\гена\gena4\gena4\obj\Debug\gena4.exe
+D:\практика\гена\gena4\gena4\obj\Debug\gena4.pdb
